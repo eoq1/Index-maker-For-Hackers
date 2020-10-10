@@ -10,7 +10,7 @@ index maker for hackers : A tool that creates a special index for you to upload 
 
 HOW TO USE ???
 
-1) dawnload the tool from github 
+1) dawnload the tool : git clone https://github.com/eoq1/Index-maker-For-Hackers 
 
 2) run :     python2 index maker-for hackers
 ____________________________________________________________________
