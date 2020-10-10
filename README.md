@@ -12,7 +12,7 @@ HOW TO USE ???
 
 1) dawnload the tool : git clone https://github.com/eoq1/Index-maker-For-Hackers 
 
-2) run :     python2 index maker-for hackers
+2) run :     python2 index maker -for hackers.py
 ____________________________________________________________________
 The Title --> Page name
 
