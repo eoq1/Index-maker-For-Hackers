@@ -1,8 +1,8 @@
 # index-maker for hackers
 
-#coded By : abdullah
 
-#instagram: eoq.f
+
+#instagram: umu_7
 
 index maker for hackers : A tool that creates a special index for you to upload to the site that was hacked .... (Post-hacking stage)
 
